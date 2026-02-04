@@ -19,7 +19,7 @@
                 <!-- Beasiswa Hafidz Qur'an -->
                 <div class="beasiswa-card">
                     <div class="beasiswa-image">
-                        <img src="{{ asset('images/beasiswa-hafidz.png') }}" alt="Beasiswa Hafidz Qur'an">
+                        <img src="{{ url('images/beasiswa-hafidz.png') }}" alt="Beasiswa Hafidz Qur'an">
                     </div>
                     <div class="beasiswa-content">
                         <h3>Beasiswa Hafidz Qur'an</h3>
@@ -31,7 +31,7 @@
                 <!-- Beasiswa Karawang Cerdas -->
                 <div class="beasiswa-card">
                     <div class="beasiswa-image">
-                        <img src="{{ asset('images/beasiswa-karawang-cerdas.png') }}" alt="Beasiswa Karawang Cerdas">
+                        <img src="{{ url('images/beasiswa-karawang-cerdas.png') }}" alt="Beasiswa Karawang Cerdas">
                     </div>
                     <div class="beasiswa-content">
                         <h3>Beasiswa Karawang Cerdas</h3>
@@ -43,7 +43,7 @@
                 <!-- Beasiswa KIP Kuliah -->
                 <div class="beasiswa-card">
                     <div class="beasiswa-image">
-                        <img src="{{ asset('images/beasiswa-kip-kuliah.png') }}" alt="Beasiswa KIP Kuliah">
+                        <img src="{{ url('images/beasiswa-kip-kuliah.png') }}" alt="Beasiswa KIP Kuliah">
                     </div>
                     <div class="beasiswa-content">
                         <h3>Beasiswa KIP Kuliah</h3>
@@ -55,7 +55,7 @@
                 <!-- Beasiswa Mitra ZIS -->
                 <div class="beasiswa-card">
                     <div class="beasiswa-image">
-                        <img src="{{ asset('images/beasiswa-mitra-zis.png') }}" alt="Beasiswa Mitra ZIS">
+                        <img src="{{ url('images/beasiswa-mitra-zis.png') }}" alt="Beasiswa Mitra ZIS">
                     </div>
                     <div class="beasiswa-content">
                         <h3>Beasiswa Mitra ZIS</h3>
@@ -67,7 +67,7 @@
                 <!-- Beasiswa Persyarikatan -->
                 <div class="beasiswa-card">
                     <div class="beasiswa-image">
-                        <img src="{{ asset('images/beasiswa-persyarikatan.png') }}" alt="Beasiswa Persyarikatan">
+                        <img src="{{ url('images/beasiswa-persyarikatan.png') }}" alt="Beasiswa Persyarikatan">
                     </div>
                     <div class="beasiswa-content">
                         <h3>Beasiswa Persyarikatan</h3>
@@ -79,7 +79,7 @@
                 <!-- Beasiswa Prestasi -->
                 <div class="beasiswa-card">
                     <div class="beasiswa-image">
-                        <img src="{{ asset('images/beasiswa-prestasi.png') }}" alt="Beasiswa Prestasi">
+                        <img src="{{ url('images/beasiswa-prestasi.png') }}" alt="Beasiswa Prestasi">
                     </div>
                     <div class="beasiswa-content">
                         <h3>Beasiswa Prestasi</h3>
@@ -91,7 +91,7 @@
                  <!-- Beasiswa Tahfidz -->
                  <div class="beasiswa-card">
                     <div class="beasiswa-image">
-                        <img src="{{ asset('images/beasiswa-tahfidz.svg') }}" alt="Beasiswa Tahfidz">
+                        <img src="{{ url('images/beasiswa-tahfidz.svg') }}" alt="Beasiswa Tahfidz">
                     </div>
                     <div class="beasiswa-content">
                         <h3>Beasiswa Tahfidz</h3>

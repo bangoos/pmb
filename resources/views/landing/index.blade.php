@@ -15,7 +15,7 @@
                         </div>
                     </div>
                     <div class="hero-image">
-                        <img src="{{ asset('images/hero1.png') }}" alt="Mahasiswa UMBK" class="img-responsive">
+                        <img src="{{ url('images/hero1.png') }}" alt="Mahasiswa UMBK" class="img-responsive">
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                         </div>
                     </div>
                     <div class="hero-image">
-                        <img src="{{ asset('images/hero2.png') }}" alt="Mahasiswa UMBK" class="img-responsive">
+                        <img src="{{ url('images/hero2.png') }}" alt="Mahasiswa UMBK" class="img-responsive">
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
             <h2 class="section-title text-center">Mengapa kuliah di UMBK..?</h2>
             <div class="why-content">
                 <div class="why-image">
-                    <img src="{{ asset('images/building.png') }}" alt="Gedung UMBK" class="rounded-img img-responsive">
+                    <img src="{{ url('images/building.png') }}" alt="Gedung UMBK" class="rounded-img img-responsive">
                 </div>
                 <div class="why-list">
                     <div class="why-item">
@@ -215,7 +215,7 @@
         <div class="container">
             <h2 class="section-title text-center">Alur Pendaftaran</h2>
             <div class="flow-image-container">
-                <img src="{{ asset('images/alur-pendaftaran.png') }}" alt="Alur Pendaftaran" class="img-responsive">
+                <img src="{{ url('images/alur-pendaftaran.png') }}" alt="Alur Pendaftaran" class="img-responsive">
             </div>
         </div>
     </section>
@@ -257,7 +257,7 @@
                 <div class="info-box qr-section">
                     <p><strong>Link Tree UMBK</strong></p>
                     <br><br>
-                    <img src="{{ asset('images/qr-code.png') }}" alt="Scan Me" class="qr-img">
+                    <img src="{{ url('images/qr-code.png') }}" alt="Scan Me" class="qr-img">
                 </div>
             </div>
         </div>
@@ -273,7 +273,7 @@
         <div class="container">
             <h2 class="section-title text-center">Kerja Sama UMBK</h2>
             <div class="flow-image-container">
-                <img src="{{ asset('images/mitra.png') }}" alt="Partner" class="img-responsive">
+                <img src="{{ url('images/mitra.png') }}" alt="Partner" class="img-responsive">
             </div>
         </div>
     </section>

@@ -36,7 +36,7 @@
                     </div>
                 </div>
                 <div class="about-image">
-                    <img src="{{ asset('images/building.png') }}" alt="Gedung Kampus UMBK" class="rounded-shadow img-responsive">
+                    <img src="{{ url('images/building.png') }}" alt="Gedung Kampus UMBK" class="rounded-shadow img-responsive">
                 </div>
             </div>
         </div>
@@ -48,7 +48,7 @@
             <h2 class="section-title text-center">Mengapa kuliah di UMBK..?</h2>
             <div class="why-content">
                 <div class="why-image">
-                    <img src="{{ asset('images/building.png') }}" alt="Gedung UMBK" class="rounded-img img-responsive">
+                    <img src="{{ url('images/building.png') }}" alt="Gedung UMBK" class="rounded-img img-responsive">
                 </div>
                 <div class="why-list">
                     <div class="why-item">
@@ -184,7 +184,7 @@
             <div class="leadership-grid">
                 <div class="leader-card">
                     <div class="leader-image">
-                        <img src="{{ asset('images/placeholder-leader.jpg') }}" alt="Rektor" class="img-responsive">
+                        <img src="{{ url('images/placeholder-leader.jpg') }}" alt="Rektor" class="img-responsive">
                     </div>
                     <div class="leader-info">
                         <h4>Prof. Dr. H. Ahmad Syafi'i, M.Si.</h4>
@@ -195,7 +195,7 @@
                 
                 <div class="leader-card">
                     <div class="leader-image">
-                        <img src="{{ asset('images/placeholder-leader.jpg') }}" alt="Warek I" class="img-responsive">
+                        <img src="{{ url('images/placeholder-leader.jpg') }}" alt="Warek I" class="img-responsive">
                     </div>
                     <div class="leader-info">
                         <h4>Dr. H. Budi Santoso, S.E., M.M.</h4>
@@ -206,7 +206,7 @@
                 
                 <div class="leader-card">
                     <div class="leader-image">
-                        <img src="{{ asset('images/placeholder-leader.jpg') }}" alt="Warek II" class="img-responsive">
+                        <img src="{{ url('images/placeholder-leader.jpg') }}" alt="Warek II" class="img-responsive">
                     </div>
                     <div class="leader-info">
                         <h4>Dr. Ir. H. Muhammad Yusuf, M.T.</h4>

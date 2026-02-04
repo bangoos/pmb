@@ -7,7 +7,7 @@
     <section class="beasiswa-detail-hero">
         <div class="container">
             <div class="beasiswa-detail-content">
-                <img src="{{ asset('images/' . $beasiswa['image']) }}" alt="{{ $beasiswa['title'] }}" class="detail-image">
+                <img src="{{ url('images/' . $beasiswa['image']) }}" alt="{{ $beasiswa['title'] }}" class="detail-image">
                 <h1>{{ $beasiswa['title'] }}</h1>
                 <p class="lead-text">{{ $beasiswa['description'] }}</p>
             </div>
