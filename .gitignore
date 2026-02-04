@@ -15,3 +15,11 @@ yarn-error.log
 /.vscode
 .DS_Store
 Thumbs.db
+
+# Exclude root assets (they're copied from public during deployment)
+/css/
+/js/
+/images/
+/index.php
+/.htaccess
+/favicon.ico
